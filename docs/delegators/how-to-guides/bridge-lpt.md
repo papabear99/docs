@@ -14,3 +14,4 @@ Please note that you will need some ETH in your wallet to complete this guide. I
 4. Click `Deposit` to move your L1 LPT to L2.
 
 If you need to move from L2 to L1, the same instructions apply; the only difference is that you should start with your wallet connected to Arbitrum (Arbitrum Rinkeby if using testnet) and enter the L2 LPT contract address ([0x289ba1701C2F088cf0faf8B3705246331cB8A839](/protocol/reference/deployed)) as the destination address.
+
